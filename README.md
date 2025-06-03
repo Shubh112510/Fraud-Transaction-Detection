@@ -34,3 +34,5 @@ The dashboard supports advanced filtering by Fraud Status, Device Type, and Tran
 ________________________________________
 Tools Used: Power BI, DAX, Data Modelling, Interactive Filtering
 Focus Areas: Fraud Analytics, Anomaly Detection, Time-Series Analysis, Dashboard UX
+
+Screenshot/ Demo show what the dashboard looks like example:

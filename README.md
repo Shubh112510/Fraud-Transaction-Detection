@@ -35,4 +35,4 @@ ________________________________________
 Tools Used: Power BI, DAX, Data Modelling, Interactive Filtering
 Focus Areas: Fraud Analytics, Anomaly Detection, Time-Series Analysis, Dashboard UX
 
-Screenshot/ Demo show what the dashboard looks like example:
+Screenshot/ Demo show what the dashboard looks like example:https://github.com/Shubh112510/Fraud-Transaction-Detection/blob/main/Fraud%20Detection-%20SS.png
